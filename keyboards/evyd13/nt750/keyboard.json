@@ -3,6 +3,9 @@
     "manufacturer": "Evyd13",
     "url": "https://github.com/evyd13/nt-series/tree/main/nt-750",
     "maintainer": "evyd13",
+    "build": {
+        "debounce_type": "asym_eager_defer_pk"
+    },
     "usb": {
         "vid": "0x4705",
         "pid": "0x3320",
